@@ -19,7 +19,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/nour-tarek-18a637208" target="_blank"><img src="https://img.shields.io/badge/Nour%20Tarek-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/@Nour_Tarek_Nour" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/Nour_Tarek_Nour" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/nour.tarek.73113528/" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/nourtarek202" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek202-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 
