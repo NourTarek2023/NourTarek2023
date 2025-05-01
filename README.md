@@ -35,6 +35,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NourTarek2023&show_icons=true&bg_color=00000000&hide_border=true" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NourTarek2023&theme=transparent&hide_border=true&card_height=170" alt="" /></p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NourTarek2023&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="most used languages" />
+<br>
 
 <a href="https://komarev.com/ghpvc/?username=NourTarek2023&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=NourTarek2023&style=for-the-badge">
